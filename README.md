@@ -26,7 +26,7 @@ Busco oportunidades para aplicar y ampliar mis conocimientos en proyectos desafi
 ## 🛠️ Stack Tecnológico
 
 ### **Lenguajes de Programación**
-- JavaScript • TypeScript
+- JavaScript • TypeScript • HTML • CSS
 
 ### **Frameworks y Librerías**
 - Angular • Next.js • Express
