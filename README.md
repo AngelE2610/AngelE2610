@@ -1,65 +1,81 @@
-Hola, soy Angel Ernesto Valdes de la Cruz 👋
-👨‍💻 Ingeniero en Ciencias Informáticas - Desarrollador FullStack en Formación
+# 👋 Hola, soy Angel Ernesto Valdes de la Cruz
 
-📧 Email: angelevdlc@uci.cu
-📱 Teléfono: +5354869089
-💼 LinkedIn: Angel Ernesto Valdes de la Cruz
-🐙 GitHub: AngelE2610
-🚀 Sobre Mí
+## 🚀 Ingeniero en Ciencias Informáticas 
+### 💻 Desarrollador Frontend en Formación a FullStack
 
-Ingeniero en Ciencias Informáticas especializado en desarrollo frontend con Angular y Next.js, en transición hacia el desarrollo fullstack. Actualmente expandiendo mis habilidades en backend con Node.js, Express y Sequelize para construcción de APIs REST.
+---
+
+## 📋 Información de Contacto
+
+- 📧 **Email:** angelevdlc@uci.cu
+- 📱 **Teléfono:** +5354869089
+- 💼 **LinkedIn:** Angel Ernesto Valdes de la Cruz
+- 🐙 **GitHub:** AngelE2610
+- 🎓 **Universidad:** Universidad de las Ciencias Informáticas (UCI)
+
+---
+
+## 🎯 Perfil Profesional
+
+Ingeniero en Ciencias Informáticas especializado en desarrollo frontend con **Angular** y **Next.js**, en transición hacia el desarrollo fullstack. Actualmente expandiendo mis habilidades en backend con **Node.js**, **Express** y **Sequelize** para construcción de APIs REST.
 
 Busco oportunidades para aplicar y ampliar mis conocimientos en proyectos desafiantes, con el objetivo de consolidarme como desarrollador fullstack.
-🛠️ Habilidades Técnicas
-Lenguajes de Programación
 
-https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
-https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white
-Frameworks y Librerías
+---
 
-https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
-https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white
-https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white
-https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white
-Bases de Datos
+## 🛠️ Stack Tecnológico
 
-https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white
-Herramientas
+### **Lenguajes de Programación**
+- JavaScript • TypeScript
 
-https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
-Metodologías
+### **Frameworks y Librerías**
+- Angular • Next.js • Express
+- Bootstrap • Tailwind CSS
 
-https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrum&logoColor=white
-💼 Experiencia Profesional
-Especialista General | CIGE, UCI
+### **Bases de Datos**
+- PostgreSQL
 
-Ene 2025 – Presente
+### **Herramientas y Metodologías**
+- Git • Scrum
 
-    Desarrollo y mantenimiento de aplicaciones web
+---
 
-    Implementación de soluciones frontend y backend
+## 💼 Experiencia Profesional
 
-    Colaboración en equipos de desarrollo ágiles
+### **Especialista General** | CIGE, UCI
+**Enero 2025 – Presente**
+- Desarrollo y mantenimiento de aplicaciones web
+- Implementación de soluciones frontend y backend
+- Colaboración en equipos de desarrollo ágiles
 
-🎓 Educación
-Ingeniería en Ciencias Informáticas
+---
 
-Universidad de las Ciencias Informáticas (UCI), La Habana, Cuba
-Finalizado 2024
-📊 Estadísticas de GitHub
+## 🎓 Formación Académica
 
-https://github-readme-stats.vercel.app/api?username=AngelE2610&show_icons=true&theme=radical
+### **Ingeniería en Ciencias Informáticas**
+**Universidad de las Ciencias Informáticas (UCI)**
+La Habana, Cuba | Finalizado 2024
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=AngelE2610&layout=compact&theme=radical
-🌐 Enlaces de Contacto
+---
 
-    Email: angelevdlc@uci.cu
+## 🎖️ Habilidades Destacadas
 
-    Teléfono: +5354869089
+- ✅ Desarrollo Frontend con Angular y Next.js
+- ✅ Creación de APIs REST con Express
+- ✅ Bases de datos PostgreSQL
+- ✅ Control de versiones con Git
+- ✅ Metodologías Ágiles (Scrum)
+- ✅ Aprendizaje continuo y adaptabilidad
 
-    LinkedIn: Angel Ernesto Valdes de la Cruz
+---
 
-    GitHub: AngelE2610
+## 🎯 Objetivos Profesionales
 
-⭐ "En constante aprendizaje y crecimiento hacia el desarrollo fullstack"
+- Consolidarme como desarrollador fullstack
+- Contribuir a proyectos tecnológicos innovadores
+- Continuar mi crecimiento profesional en entornos desafiantes
+- Aplicar mejores prácticas de desarrollo y arquitectura de software
+
+---
+
+> ⭐ *"En constante aprendizaje y crecimiento hacia el desarrollo fullstack"*
