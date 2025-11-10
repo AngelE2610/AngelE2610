@@ -7,7 +7,7 @@
 
 ## 📋 Información de Contacto
 
-- 📧 **Email:** angelevdlc@uci.cu
+- 📧 **Email:** angelvaldes9710@gmail.com
 - 📱 **Teléfono:** +5354869089
 - 💼 **LinkedIn:** Angel Ernesto Valdes de la Cruz
 - 🐙 **GitHub:** AngelE2610
