@@ -1,10 +1,10 @@
 Hola, soy Angel Ernesto Valdes de la Cruz 👋
 👨‍💻 Ingeniero en Ciencias Informáticas - Desarrollador FullStack en Formación
 
-https://img.shields.io/badge/%F0%9F%93%A7-angelevdlc@uci.cu-blue?style=flat-square
-https://img.shields.io/badge/%F0%9F%94%97-LinkedIn-0077B5?style=flat-square
-https://img.shields.io/badge/%F0%9F%90%99-GitHub-181717?style=flat-square
-https://img.shields.io/badge/%F0%9F%93%B1-+5354869089-green?style=flat-square
+📧 Email: angelevdlc@uci.cu
+📱 Teléfono: +5354869089
+💼 LinkedIn: Angel Ernesto Valdes de la Cruz
+🐙 GitHub: AngelE2610
 🚀 Sobre Mí
 
 Ingeniero en Ciencias Informáticas especializado en desarrollo frontend con Angular y Next.js, en transición hacia el desarrollo fullstack. Actualmente expandiendo mis habilidades en backend con Node.js, Express y Sequelize para construcción de APIs REST.
@@ -52,14 +52,14 @@ Finalizado 2024
 https://github-readme-stats.vercel.app/api?username=AngelE2610&show_icons=true&theme=radical
 
 https://github-readme-stats.vercel.app/api/top-langs/?username=AngelE2610&layout=compact&theme=radical
-📫 Cómo Contactarme
+🌐 Enlaces de Contacto
 
-    📧 Email: angelevdlc@uci.cu
+    Email: angelevdlc@uci.cu
 
-    📱 Teléfono: +5354869089
+    Teléfono: +5354869089
 
-    💼 LinkedIn: Angel Ernesto Valdes de la Cruz
+    LinkedIn: Angel Ernesto Valdes de la Cruz
 
-    🐙 GitHub: AngelE2610
+    GitHub: AngelE2610
 
 ⭐ "En constante aprendizaje y crecimiento hacia el desarrollo fullstack"
